@@ -6,7 +6,7 @@ Then you have to create another folder in which you will put the X-Ray images of
 After creating two folders we will merge the images and set the labels.
 Then we will split that into training and testing set and create a VGG model that will predict our data.
 
-Input X-ray Images !!
+X-ray Images as Input!!
 ![covid](https://user-images.githubusercontent.com/67474853/126035088-5d2ff4fa-908b-40e8-afcd-bf5eb7e4b8d5.JPG)
 
 Images classified by Model as Covid/Normal
