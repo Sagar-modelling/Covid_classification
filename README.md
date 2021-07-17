@@ -1,4 +1,6 @@
 # Covid_classification
+[Dtaset gogle drive link](https://drive.google.com/drive/folders/1NQY-A4F2RtmCCXys9MObARoYM-Qcy6W-?usp=sharing)
+
 To Build a Deep Learning Model in Python that automatically detects the Patient having Covid-19 or not from chest X-ray images.
 Approach:
 We have to create a Dataset contains two folders, in which one has sampled X-Ray images of Normal Patients.
